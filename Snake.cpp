@@ -38,7 +38,7 @@ int main()
 		int score = 0;
 		int snakeDirection = 3;
 		bool dead = false;
-		bool keyLeft = false, keyRight = false, keyLeftOld = false, keyRightOld = false;
+		// bool keyLeft = false, keyRight = false, keyLeftOld = false, keyRightOld = false;
 
 
 		while (!dead)
@@ -65,6 +65,7 @@ int main()
 						snakeDirection = 3;
 				}
 
+				// Reset keys
 				keyLeftOld = keyLeft;
 				keyRightOld = keyRight;
 			}
@@ -93,8 +94,6 @@ int main()
 			{
 				// Add to the score
 				score++;
-
-				// Speed up the character
 
 				// Respawn food
 				while (screen[foodY * screenWidth + foodX] != L' ')
