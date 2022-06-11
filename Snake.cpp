@@ -1,3 +1,8 @@
+// Boden McHale
+// Snake
+// www.LostRabbitDigital.com
+// June 11th 2022
+
 #include <iostream>
 #include <list>
 #include <chrono>
