@@ -73,7 +73,7 @@ int main()
 		int score = 0;
 		int snakeDirection = 3;
 		bool dead = false;
-		// bool keyLeft = false, keyRight = false, keyLeftOld = false, keyRightOld = false;
+		bool keyLeft = false, keyRight = false, keyLeftOld = false, keyRightOld = false;
 
 
 		while (!dead)
