@@ -32,8 +32,8 @@
 
 	Author
 	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	Twitter: @Boden_McHale
-	Blog: www.LostRabbitDigital.com
+	Twitter: @Boden_McHale https://twitter.com/Boden_McHale
+	Blog: https://lostrabbitdigital.com/blog/
 
 	Last Updated: June 13th 2022
 */
